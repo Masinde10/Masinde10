@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on School projects
-- 🌱 I’m currently learning Data Science with Python
+- 🌱 I’m a Data Science graduate with Python
 - 👯 I’m looking to collaborate on Data Analysis projects
 - 🤔 I’m looking for help with Web scrapping and Model deployment
 - 💬 Ask me about Anything
